@@ -1,0 +1,4 @@
+2016-05-03 16:50:36 ERROR HelloWordLog4j:16 - Desculpe mas não foi possivel dividir este valor
+java.lang.ArithmeticException: / by zero
+	at HelloWordLog4j.dividir(HelloWordLog4j.java:22)
+	at HelloWordLog4j.main(HelloWordLog4j.java:14)

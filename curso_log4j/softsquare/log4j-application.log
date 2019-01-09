@@ -1,0 +1,40 @@
+2016-05-03 16:31:51 ERROR HelloWordLog4j:16 - Desculpe mas não foi possivel dividir este valor
+java.lang.ArithmeticException: / by zero
+	at br.com.softsquare.HelloWordLog4j.dividir(HelloWordLog4j.java:22)
+	at br.com.softsquare.HelloWordLog4j.main(HelloWordLog4j.java:14)
+2016-05-03 16:32:53 ERROR HelloWordLog4j:16 - Desculpe mas não foi possivel dividir este valor
+java.lang.ArithmeticException: / by zero
+	at br.com.softsquare.HelloWordLog4j.dividir(HelloWordLog4j.java:22)
+	at br.com.softsquare.HelloWordLog4j.main(HelloWordLog4j.java:14)
+2016-05-03 16:32:55 ERROR HelloWordLog4j:16 - Desculpe mas não foi possivel dividir este valor
+java.lang.ArithmeticException: / by zero
+	at br.com.softsquare.HelloWordLog4j.dividir(HelloWordLog4j.java:22)
+	at br.com.softsquare.HelloWordLog4j.main(HelloWordLog4j.java:14)
+2016-05-03 16:32:56 ERROR HelloWordLog4j:16 - Desculpe mas não foi possivel dividir este valor
+java.lang.ArithmeticException: / by zero
+	at br.com.softsquare.HelloWordLog4j.dividir(HelloWordLog4j.java:22)
+	at br.com.softsquare.HelloWordLog4j.main(HelloWordLog4j.java:14)
+2016-05-03 16:32:57 ERROR HelloWordLog4j:16 - Desculpe mas não foi possivel dividir este valor
+java.lang.ArithmeticException: / by zero
+	at br.com.softsquare.HelloWordLog4j.dividir(HelloWordLog4j.java:22)
+	at br.com.softsquare.HelloWordLog4j.main(HelloWordLog4j.java:14)
+2016-05-03 16:32:58 ERROR HelloWordLog4j:16 - Desculpe mas não foi possivel dividir este valor
+java.lang.ArithmeticException: / by zero
+	at br.com.softsquare.HelloWordLog4j.dividir(HelloWordLog4j.java:22)
+	at br.com.softsquare.HelloWordLog4j.main(HelloWordLog4j.java:14)
+2016-05-03 16:32:59 ERROR HelloWordLog4j:16 - Desculpe mas não foi possivel dividir este valor
+java.lang.ArithmeticException: / by zero
+	at br.com.softsquare.HelloWordLog4j.dividir(HelloWordLog4j.java:22)
+	at br.com.softsquare.HelloWordLog4j.main(HelloWordLog4j.java:14)
+2016-05-03 16:33:00 ERROR HelloWordLog4j:16 - Desculpe mas não foi possivel dividir este valor
+java.lang.ArithmeticException: / by zero
+	at br.com.softsquare.HelloWordLog4j.dividir(HelloWordLog4j.java:22)
+	at br.com.softsquare.HelloWordLog4j.main(HelloWordLog4j.java:14)
+2016-05-03 16:47:53 ERROR HelloWordLog4j:16 - Desculpe mas não foi possivel dividir este valor
+java.lang.ArithmeticException: / by zero
+	at HelloWordLog4j.dividir(HelloWordLog4j.java:22)
+	at HelloWordLog4j.main(HelloWordLog4j.java:14)
+2016-05-03 16:50:07 ERROR HelloWordLog4j:16 - Desculpe mas não foi possivel dividir este valor
+java.lang.ArithmeticException: / by zero
+	at HelloWordLog4j.dividir(HelloWordLog4j.java:22)
+	at HelloWordLog4j.main(HelloWordLog4j.java:14)
